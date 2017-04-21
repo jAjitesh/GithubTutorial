@@ -1,0 +1,18 @@
+cd ..  --> change directory
+cd documents --> goes to documents
+
+// copy the clone https for the new created project 
+
+cd git clone (paste the url)
+cd (Name of the github project)
+
+//Add required files in the project folder 
+
+git status --> gives you untracked files
+git add (Name of the file) 
+git status
+git commit -m "added (fileName)"
+git push
+
+//This pushes the file in your Github account
+//refresh the page to view the file
